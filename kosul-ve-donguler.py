@@ -5,4 +5,4 @@ while i < 1000 :
        print(i,end='\n')
        toplam += i
     i += 1
-print("Toplam",toplam,sep=':')
+print("Toplam",toplam,sep='=')
