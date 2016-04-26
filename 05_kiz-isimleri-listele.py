@@ -1,6 +1,6 @@
 # 05_kiz.txt dosyasındaki kız isimlerini ve tersten yazımlarını listeler, en uzun ismi bulur
 import codecs
-dosya = codecs.open('kiz.txt', encoding='utf-8', mode='r')
+dosya = codecs.open('05_kiz.txt', encoding='utf-8', mode='r')
 isimler = dosya.readlines()
 eb = 1
 while anahtar != "-1" :
