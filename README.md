@@ -3,3 +3,7 @@
 
 https://projecteuler.net/archives
 adresindeki problemlerden yararlanılarak ya da esinlenerek kodlar yazılmaktadır.
+
+Temel kaynak  olarak 
+http://belgeler.istihza.com/py3/
+adresi kullanılmaktadır.
